@@ -1,5 +1,6 @@
 <%@ include file="/WEB-INF/views/todo/header.jspf"%>
 <%@ include file="/WEB-INF/views/todo/navigation.jspf"%>
+
 <div class="container">
 
  <div class="panel panel-primary">
@@ -10,4 +11,4 @@
         </div>
      </div>
  </div>
-<%@ include file="/WEB-INF/views/todo/footer.jspf"%>
+ <%@ include file="/WEB-INF/views/todo/footer.jspf"%>
